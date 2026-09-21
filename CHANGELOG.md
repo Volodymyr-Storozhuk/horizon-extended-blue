@@ -2,6 +2,10 @@
 
 All changes I added to my theme "Horizon extended Blue theme" well be note in this file.
 
+## [0.2.2]
+
+- Update light theme.
+
 ## [0.2.1]
 
 - Updated some parametrs.
