@@ -9,10 +9,10 @@ My vision of a wonderful [Horizon Extended theme by Lance Wilhelm](https://marke
 
 <div align="left">
 
-![darktheme start screenshot](https://raw.githubusercontent.com/Volodymyr-Storozhuk/horizon-extended-blue/main/darktheme_start.png)
-![darktheme py screenshot](https://raw.githubusercontent.com/Volodymyr-Storozhuk/horizon-extended-blue/main/darktheme_py.png)
-![lighttheme start screenshot](https://raw.githubusercontent.com/Volodymyr-Storozhuk/horizon-extended-blue/main/lighttheme_start.png)
-![lighttheme py screenshot](https://raw.githubusercontent.com/Volodymyr-Storozhuk/horizon-extended-blue/main/lighttheme_py.png)
+![darktheme start screenshot](https://raw.githubusercontent.com/Volodymyr-Storozhuk/horizon-extended-blue/main/dark_theme_start.png)
+![darktheme py screenshot](https://raw.githubusercontent.com/Volodymyr-Storozhuk/horizon-extended-blue/main/dark_theme_py.png)
+![lighttheme start screenshot](https://raw.githubusercontent.com/Volodymyr-Storozhuk/horizon-extended-blue/main/light_theme_start.png)
+![lighttheme py screenshot](https://raw.githubusercontent.com/Volodymyr-Storozhuk/horizon-extended-blue/main/light_theme_py.png)
 
 
 I love the dark and light Horizon theme but love the blue interface elements. This is my vision of this wonderful theme with blue elements but with the semantic of the Horizon theme. 
